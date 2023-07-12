@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=52.3.225.116;Database=Asotrama;User ID=Test;Password=pass23@;"
+  }
+}
